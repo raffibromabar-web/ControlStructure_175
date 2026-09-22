@@ -6,3 +6,5 @@ if nilai >= 80:
     print("Very good performance")
 if nilai >= 70:
     print("Good performance")
+if nilai >= 60:
+    print("Average performance")
