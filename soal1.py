@@ -1,0 +1,1 @@
+nilai = int(input("Masukkan nilai : "))
