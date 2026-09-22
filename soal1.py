@@ -2,3 +2,5 @@ nilai = int(input("Masukkan nilai : "))
 
 if nilai >= 90:
     print("Excellent performance")
+if nilai >= 80:
+    print("Very good performance")
